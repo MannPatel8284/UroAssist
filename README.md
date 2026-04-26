@@ -7,7 +7,7 @@
 
 ## Demo
 
-![Demo placeholder](docs/demo.gif)
+Drive Link for video --- https://drive.google.com/file/d/100gZExHZ9G-zJrrmgmxRf1BA7xLeuhPX/view?usp=drive_link
 
 ## Why Urology-Specific?
 
